@@ -23,22 +23,30 @@ git：control + shift + G
 移动行：command + [ 、command + ]
 分屏中打开：control + 回车
 访达中打开：option + command + R
-切换打开标签左右: command + shift + [ 、command + shift + ] 或 command + control + 左右键 
+切换打开标签左右: command + shift + [ 、command + shift + ] 或 option + command + 左右键
+移动打开的标签：command + control + 左右键 
 切换打开标签：control + tab
 打开新的编辑器：command + shift + N
 选中当前文件：command + shift + ;
 复制路径：command + option + c
 复制相对路径：command + option + c + shift
-切换编辑器窗口：control + w
+切换编辑器窗口：control + w 
 查看函数在哪儿调用：Shift + F12 
+显示/隐藏bar：control + command + w
 
 
 3、终端操作
 终端调试控制台：command + shift + Y
 终端输出：command + shift + U
 终端问题：command + shift + M
-终端打开：control + `
-终端显示或隐藏：command + J
+终端打开：control + ` 或 command + J
+添加终端：control + shift + `
+分屏终端：command + \
+切换分屏终端：option + command + 左右键
+切换窗口终端：option + command +↑ / ↓ (自定义设置)
+切换活动终端：option + w (自定义设置)
+删除终端：control + shift + 1 (自定义设置)
+重命名终端：option + R (自定义设置)
 预览md文件：command + shift + V
 
 
