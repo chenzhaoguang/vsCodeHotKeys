@@ -1,0 +1,73 @@
+1、侧边栏操作
+聚焦侧边栏：command + shift + E
+全局搜索：command + shift + F
+git：control + shift + G
+运行：command + shift + D
+快速打开和关闭侧边栏:Command + B
+
+
+2、code操作
+清除多余的import：shift + option + O
+合并行:Control + J
+代码格式化:Shift + Option + F
+折叠代码快捷键:Command + Option + [
+展开代码快捷键:Command + Option + ]
+修改“符号” ：F2
+查找: Command + F
+跳转到指定行：control + G
+跳转到匹配的括号：Command + Shift + \	
+往上/往下查找: Command + Shift + G 、Command + G
+文件中跳转特定符号带搜索:Command + Shift + O 、@后面加上:   分类
+文件中跳转特定符号:Command + Shift + .
+项目中跳转特定符号:Command + T
+移动行：command + [ 、command + ]
+分屏中打开：control + 回车
+访达中打开：option + command + R
+切换打开标签左右: command + shift + [ 、command + shift + ] 或 command + control + 左右键 
+切换打开标签：control + tab
+打开新的编辑器：command + shift + N
+选中当前文件：command + shift + ;
+复制路径：command + option + c
+复制相对路径：command + option + c + shift
+切换编辑器窗口：control + w
+查看函数在哪儿调用：Shift + F12 
+
+
+3、终端操作
+终端调试控制台：command + shift + Y
+终端输出：command + shift + U
+终端问题：command + shift + M
+终端打开：control + `
+终端显示或隐藏：command + J
+预览md文件：command + shift + V
+
+
+4、编辑操作
+在当前行的下方新增一行：command + 回车
+在当前行的上方新增一行：command + shift + 回车
+将代码向上移动：Option + ↑	
+将代码向下移动：Option + ↓	
+将代码向上复制：Option + Shift + ↑	
+将代码向下复制：Option + Shift + ↓	
+
+
+5、多光标编辑
+往上/下添加同时编辑:Command + Option + ↑ / ↓
+在任意位置，同时出现光标：Option + 鼠标
+多行选中同时编辑:Shift + Option + 鼠标
+选择单词局部选择:Command + D
+选择单词全局选中:Command + Shift + L	
+每一行的末尾都创建一个光标：Option + Shift + i
+
+
+6、删除操作
+删除整行:Cmd + shift + K
+删除前一个单词：option + del
+删除后一个单词：option + del + fn
+删除到最前面：command + del
+删除到最后面：control + K 
+
+7、保存
+另存为：command + shift +S 
+全部保存：option + command + S
+
