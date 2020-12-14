@@ -1,0 +1,16 @@
+1、编辑
+清除当前行：control + U
+删除到文本末尾：control + k
+交换光标处文本：control + t
+清屏1：command + r 或者 command + k
+清屏2：control + l (保留用户信息)
+当前行高亮:option + command + ;
+
+2、展示
+搜索所有tab:command + option + E
+高亮当前鼠标的位置:command + /
+
+3、历史
+弹出历史命令窗口:command + shift + h
+弹出自动完成:command + ;
+
