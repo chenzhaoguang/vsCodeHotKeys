@@ -4,6 +4,7 @@
 git：control + shift + G
 运行：command + shift + D
 快速打开和关闭侧边栏:Command + B
+快速打开：command + o
 
 
 2、code操作
@@ -32,8 +33,9 @@ git：control + shift + G
 复制相对路径：command + option + c + shift
 切换编辑器窗口：control + w 
 查看函数在哪儿调用：Shift + F12 
-显示/隐藏bar：control + command + w
-
+显示/隐藏topBar：control + command + w
+显示/隐藏lefBar：control + command + E (自定义设置)
+cssModule : command + m
 
 3、终端操作
 终端调试控制台：command + shift + Y
