@@ -35,6 +35,12 @@ git：control + shift + G
 查看函数在哪儿调用：Shift + F12 
 显示/隐藏topBar：control + command + w
 显示/隐藏lefBar：control + command + E (自定义设置)
+
+2.1、布局
+分屏视图: command + \
+合并所有视图窗口: shift + command + option + \(自定义设置)
+合并下一组: command + option + \(自定义设置)
+三列编辑器布局: option + shift + 3
 cssModule : command + m
 
 3、终端操作
