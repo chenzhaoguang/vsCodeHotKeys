@@ -35,6 +35,7 @@ git：control + shift + G
 查看函数在哪儿调用：Shift + F12 
 显示/隐藏topBar：control + command + w
 显示/隐藏lefBar：control + command + E (自定义设置)
+清除所有通知: command + shift + spaceBack (自定义设置)
 
 2.1、布局
 分屏视图: command + \
