@@ -9,7 +9,7 @@
 搜索所有tab:command + option + E
 高亮当前鼠标的位置:command + /
 快速唤出:command + .
-当前行高亮:option + command + ;
+当前行高亮:command + option +;
 显示时间:command + shift + E
 快速打开: command + shift + O
 当前tab充满宽度:command + shift + 回车
@@ -21,7 +21,6 @@
 3、历史
 弹出历史命令窗口:command + shift + h
 弹出自动完成:command + ;
-历史命令回放:command + option + B
 
 
 
