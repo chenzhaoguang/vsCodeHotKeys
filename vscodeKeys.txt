@@ -29,6 +29,7 @@ git：control + shift + G
 切换打开标签：control + tab
 打开新的编辑器：command + shift + N
 选中当前文件：command + shift + ;
+复制文件名：control + option + c (自定义设置)
 复制路径：command + option + c
 复制相对路径：command + option + c + shift
 切换编辑器窗口：control + w 
@@ -50,11 +51,11 @@ cssModule : command + m
 终端问题：command + shift + M
 终端打开：control + ` 或 command + J
 添加终端：control + shift + `
+删除终端：control + shift + 1 (自定义设置)
 分屏终端：command + \
 切换分屏终端：option + command + 左右键
 切换窗口终端：option + command +↑ / ↓ (自定义设置)
 切换活动终端：option + w (自定义设置)
-删除终端：control + shift + 1 (自定义设置)
 重命名终端：option + R (自定义设置)
 预览md文件：command + shift + V
 
